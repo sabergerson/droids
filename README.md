@@ -1,5 +1,5 @@
 # droids
-Software for functioning imperial droids
+Software to build imperial droids
 
 Each class with a body part name has attributes and methods for that body part.<br />
 All SentryX Factory classes extend Droid Factory class and build droids.<br />
