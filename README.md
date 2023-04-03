@@ -1,4 +1,4 @@
-# Droids
+# droids
 Software for functioning imperial droids
 
 Each class with a body part name has attributes and methods for that body part.<br />
